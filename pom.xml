@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.emmeliejohansson</groupId>
-    <artifactId>Configserver</artifactId>
+    <artifactId>configserver</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Configserver</name>
-    <description>Configserver</description>
+    <name>configserver</name>
+    <description>configserver</description>
     <url/>
     <licenses>
         <license/>
